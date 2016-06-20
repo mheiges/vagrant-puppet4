@@ -16,7 +16,7 @@
 
 ### Oracle install slow connection
     uncomment dbdl.sh script in Vagrant file
-    This will let you put the install file in scratch or download if missing
+    This will let you put the install file in scratch(or download if missing)
 
 
 ### Usage
